@@ -1,5 +1,4 @@
-#  AI-Powered Retail Sales & Customer Behavior Analytics
-#this is my first repository 
+#  AI-Powered Retail Sales & Customer Behavior Analytics 
 ##  Project Overview
 This project analyzes retail sales data to identify trends, segment customers, and build AI models for sales forecasting and recommendations.  
 It uses **SQL + Python + Power BI** to provide data-driven insights for business decisions.
